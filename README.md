@@ -1,11 +1,17 @@
 # python_codecademy
 Different functions created with Codecademy's Python course
 
-student_teacher_ex.py
+<p>
+<b>student_teacher_ex.py</b><br>
 Functions to find various grades and averages of student and class
+</p>
 
-reverse.py
+<p>
+<b>reverse.py</b><br>
 Function that reverses a string
+</p>
 
-battleship.py
+<p>
+<b>battleship.py</b><br>
 Play a game of battleship!
+</p>
