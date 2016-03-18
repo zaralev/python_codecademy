@@ -30,3 +30,8 @@ Finds the score of a string (with no spaces) for the game Scrabble
 <b>remove_duplicates.py</b><br>
 Removes duplicates from a list and returns a new list without them
 </p>
+
+<p>
+<b>exam_statistics.py</b><br>
+Enter a list of grades, receive grades, sum, average, variance, standard deviation
+</p>
