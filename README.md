@@ -15,3 +15,8 @@ Function that reverses a string
 <b>battleship.py</b><br>
 Play a game of battleship!
 </p>
+
+<p>
+<b>anti_vowel.py</b><br>
+Removes all vowels from a string
+</p>
