@@ -25,3 +25,8 @@ Removes all vowels from a string
 <b>scrabble_score.py</b><br>
 Finds the score of a string (with no spaces) for the game Scrabble
 </p>
+
+<p>
+<b>remove_duplicates.py</b><br>
+Removes duplicates from a list and returns a new list without them
+</p>
