@@ -20,3 +20,8 @@ Play a game of battleship!
 <b>anti_vowel.py</b><br>
 Removes all vowels from a string
 </p>
+
+<p>
+<b>scrabble_score.py</b><br>
+Finds the score of a string (with no spaces) for the game Scrabble
+</p>
